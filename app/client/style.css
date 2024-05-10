@@ -26,3 +26,23 @@ body {
   padding-top: 10px;
   padding-bottom: 20px;
 }
+
+h2 {
+  text-align: center;
+}
+
+.profileimage {
+  border-radius: 100%;
+}
+
+.surfimage {
+  width: 500px;
+}
+
+.myRow {
+  text-align: center;
+}
+
+#myNav {
+  background-color: #cce1e7;
+}
